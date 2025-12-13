@@ -1,3 +1,6 @@
+https://nextjs-buildeployship.vercel.app/
+https://sveltekit-buildeployship.netlify.app/
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
