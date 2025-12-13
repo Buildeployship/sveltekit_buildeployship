@@ -1,5 +1,5 @@
-https://nextjs-buildeployship.vercel.app/
-https://sveltekit-buildeployship.netlify.app/
+- https://nextjs-buildeployship.vercel.app/
+- https://sveltekit-buildeployship.netlify.app/
 
 # sv
 
